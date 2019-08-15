@@ -7,8 +7,6 @@ if(a<0)
 printf("negative");
 else if(a>0)
 printf("positive");
-else if(a==0)
+else
 printf("zero");
-else 
-printf("Invalid input");
 }
